@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1056" role="img" aria-labelledby="title description">
+<title id="title">What this experiment can add to the BFF research question</title><desc id="description">Computational Life asks whether self-copying emerges from mutable program interactions. Lesion Lab separately asks how acquired capacity loss affects evolved task behavior, using common-checkpoint lesion forks, paired assays and identity retention. Its birth rule is engineered; it makes no claim of BFF emergence or a biological frontal lobe.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#526579"/></marker></defs>
+<rect width="1200" height="1056" fill="#FFFFFF"/>
+<text x="38.00" y="44.00" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#172D42" text-anchor="start" font-weight="700">What this experiment can add to the BFF research question</text>
+<text x="38.00" y="78.00" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#253C50" text-anchor="start" font-weight="400">Different hypotheses and measurement units; a shared interest in evolvable computation under perturbation.</text>
+<rect x="38.00" y="108.00" width="540.00" height="215.00" rx="10" fill="#EFF4F8" stroke="#C5D1DA"/>
+<text x="56.00" y="138.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#007C83" text-anchor="start" font-weight="700">Computational Life / CuBFF</text>
+<text x="56.00" y="166.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Question: can self-copying emerge?</text>
+<text x="56.00" y="189.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Substrate: interacting, self-modifying instruction tapes</text>
+<text x="56.00" y="212.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Copying must be performed by executable programs</text>
+<text x="56.00" y="235.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Evidence: operational replication from random origins</text>
+<text x="56.00" y="258.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Units: program interactions / instruction execution</text>
+<text x="56.00" y="281.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">This is the reproduction research reference</text>
+<rect x="622.00" y="108.00" width="540.00" height="215.00" rx="10" fill="#FFF1EC" stroke="#C5D1DA"/>
+<text x="640.00" y="138.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#B53C36" text-anchor="start" font-weight="700">Lesion Lab: a separate testable question</text>
+<text x="640.00" y="166.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Question: what changes when capacity is lost?</text>
+<text x="640.00" y="189.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Substrate: evolved recurrent neural controllers</text>
+<text x="640.00" y="212.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Birth copies and mutates weights by an explicit rule</text>
+<text x="640.00" y="235.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Evidence: task effects and original-identity retention</text>
+<text x="640.00" y="258.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Units: neural updates; eight updates per task episode</text>
+<text x="640.00" y="281.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Its counts are not equivalent to BFF interactions</text>
+<text x="600.00" y="362.00" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#253C50" text-anchor="middle" font-weight="700">Extension in experimental method: controlled acquired lesions + matched task measurements</text>
+<rect x="385.00" y="396.00" width="430.00" height="86.00" rx="10" fill="#EDF7F7" stroke="#C5D1DA"/>
+<text x="403.00" y="426.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#007C83" text-anchor="start" font-weight="700">Shared healthy evolved checkpoint</text>
+<text x="403.00" y="454.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Same weights and world state before intervention</text>
+<line x1="600.00" y1="482.00" x2="600.00" y2="509.00" stroke="#AAB7C4" stroke-width="1" marker-end="url(#arrow)"/>
+<line x1="208.00" y1="509.00" x2="992.00" y2="509.00" stroke="#AAB7C4" stroke-width="1.6"/>
+<line x1="208.00" y1="509.00" x2="208.00" y2="535.00" stroke="#AAB7C4" stroke-width="1" marker-end="url(#arrow)"/>
+<line x1="600.00" y1="509.00" x2="600.00" y2="535.00" stroke="#AAB7C4" stroke-width="1" marker-end="url(#arrow)"/>
+<line x1="992.00" y1="509.00" x2="992.00" y2="535.00" stroke="#AAB7C4" stroke-width="1" marker-end="url(#arrow)"/>
+<rect x="38.00" y="545.00" width="340.00" height="114.00" rx="10" fill="#EFF4F8" stroke="#C5D1DA"/>
+<text x="56.00" y="575.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#243B53" text-anchor="start" font-weight="700">Sham</text>
+<text x="56.00" y="603.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">No acquired unit mask</text>
+<text x="56.00" y="626.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Same assay seed as injured arms</text>
+<rect x="430.00" y="545.00" width="340.00" height="114.00" rx="10" fill="#FFF1EC" stroke="#C5D1DA"/>
+<text x="448.00" y="575.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#B53C36" text-anchor="start" font-weight="700">Designated partition</text>
+<text x="448.00" y="603.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Mask within the final quarter of units</text>
+<text x="448.00" y="626.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Match the scattered lesion unit count</text>
+<rect x="822.00" y="545.00" width="340.00" height="114.00" rx="10" fill="#F4F0FA" stroke="#C5D1DA"/>
+<text x="840.00" y="575.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#664FA3" text-anchor="start" font-weight="700">Scattered units</text>
+<text x="840.00" y="603.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Mask across the full recurrent layer</text>
+<text x="840.00" y="626.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Same exposed identities and dose</text>
+<text x="38.00" y="708.00" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#253C50" text-anchor="start" font-weight="700">Three measurements keep different explanations separate</text>
+<rect x="38.00" y="737.00" width="340.00" height="172.00" rx="10" fill="#FFF1EC" stroke="#C5D1DA"/>
+<text x="56.00" y="767.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#B53C36" text-anchor="start" font-weight="700">Paired before / immediate probes</text>
+<text x="56.00" y="795.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Same individual, slot and task trials</text>
+<text x="56.00" y="818.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Frozen weights; no births in the assay</text>
+<text x="56.00" y="841.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Measure changes in go and no-go scores</text>
+<text x="56.00" y="864.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Supports: acute computational effects</text>
+<rect x="430.00" y="737.00" width="340.00" height="172.00" rx="10" fill="#EDF7F7" stroke="#C5D1DA"/>
+<text x="448.00" y="767.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#007C83" text-anchor="start" font-weight="700">Cue and memory interventions</text>
+<text x="448.00" y="795.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Erase the cue or reset recurrent state</text>
+<text x="448.00" y="818.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Compare with the normal frozen assay</text>
+<text x="448.00" y="841.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Input/state distributions also change</text>
+<text x="448.00" y="864.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Supports: conditional task dependence</text>
+<rect x="822.00" y="737.00" width="340.00" height="172.00" rx="10" fill="#F4F0FA" stroke="#C5D1DA"/>
+<text x="840.00" y="767.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#664FA3" text-anchor="start" font-weight="700">Identity retention and births</text>
+<text x="840.00" y="795.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Follow original injured identities</text>
+<text x="840.00" y="818.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Masks persist; healthy newborns enter</text>
+<text x="840.00" y="841.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Population scores can rise after turnover</text>
+<text x="840.00" y="864.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Distinguishes replacement from repair</text>
+<text x="38.00" y="951.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Relevance: a reproducible way to test how acquired computational capacity loss alters learned function and population dynamics.</text>
+<text x="38.00" y="975.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Limits: birth is engineered; spontaneous BFF replication is not demonstrated. The designated partition has no validated</text>
+<text x="38.00" y="999.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">frontal specialization. This does not establish biological brain injury, subjective trauma, consciousness, or clinical validity.</text>
+</svg>

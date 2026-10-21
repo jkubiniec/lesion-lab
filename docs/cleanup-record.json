@@ -1,0 +1,113 @@
+{
+  "scope": "Generated prior run folders only; source retained. Compact audit metadata contains no model weights.",
+  "deleted_runs": [
+    {
+      "name": "control-42",
+      "bytes": 598326,
+      "status": "complete",
+      "mode": "engineered_positive_control",
+      "population": 128,
+      "seed": 42,
+      "steps": 0,
+      "baseline_accuracy": null
+    },
+    {
+      "name": "demo-42",
+      "bytes": 254676,
+      "status": "copying_not_verified",
+      "mode": "engineered_positive_control",
+      "population": 128,
+      "seed": 42,
+      "steps": 20000,
+      "baseline_accuracy": null
+    },
+    {
+      "name": "live-2026-10-21-01",
+      "bytes": 681291,
+      "status": "complete",
+      "mode": "engineered_positive_control",
+      "population": 128,
+      "seed": 42,
+      "steps": 0,
+      "baseline_accuracy": null
+    },
+    {
+      "name": "live-origin-42-continued-01",
+      "bytes": 487109,
+      "status": "copying_not_verified",
+      "mode": "random_origin",
+      "population": 1024,
+      "seed": 42,
+      "steps": 6000000,
+      "baseline_accuracy": null
+    },
+    {
+      "name": "neural-benchmark-bounded-01",
+      "bytes": 5286892,
+      "status": "complete",
+      "mode": "evolved_recurrent_population",
+      "population": 256,
+      "seed": 42,
+      "steps": 50000,
+      "baseline_accuracy": 0.40869140625
+    },
+    {
+      "name": "neural-bounded-42-01",
+      "bytes": 586755260,
+      "status": "complete",
+      "mode": "evolved_recurrent_population",
+      "population": 4096,
+      "seed": 42,
+      "steps": 1000000,
+      "baseline_accuracy": 0.427734375
+    },
+    {
+      "name": "neural-terminal-20261021-131917-386895",
+      "bytes": 586755564,
+      "status": "complete",
+      "mode": "evolved_recurrent_population",
+      "population": 4096,
+      "seed": 42,
+      "steps": 1000000,
+      "baseline_accuracy": 0.427734375
+    },
+    {
+      "name": "origin-42",
+      "bytes": 403074,
+      "status": "copying_not_verified",
+      "mode": "random_origin",
+      "population": 1024,
+      "seed": 42,
+      "steps": 3000000,
+      "baseline_accuracy": null
+    },
+    {
+      "name": "origin-43",
+      "bytes": 242720,
+      "status": "copying_not_verified",
+      "mode": "random_origin",
+      "population": 1024,
+      "seed": 43,
+      "steps": 3000000,
+      "baseline_accuracy": null
+    },
+    {
+      "name": "origin-44",
+      "bytes": 242694,
+      "status": "copying_not_verified",
+      "mode": "random_origin",
+      "population": 1024,
+      "seed": 44,
+      "steps": 3000000,
+      "baseline_accuracy": null
+    },
+    {
+      "folder": "large-16384-seed42",
+      "bytes": 2357711426,
+      "experiment": "evolved_recurrent_population",
+      "status": "complete",
+      "reason": "Superseded 20M pilot. Healthy prefix source, metrics, provenance and parent checkpoint hash retained in the final 100M run."
+    }
+  ],
+  "deleted_bytes": 3539419032
+}

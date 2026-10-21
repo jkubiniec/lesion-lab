@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 580" role="img" aria-labelledby="title description">
+<title id="title">Does successful behavior depend on the remembered cue?</title><desc id="description">Baseline assay and paired controls erase the initial cue or reset recurrent memory at the probe. Similar scores indicate weak evidence for successful cue-memory use in this run.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#526579"/></marker></defs>
+<rect width="1200" height="580" fill="#FFFFFF"/>
+<text x="38.00" y="44.00" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#172D42" text-anchor="start" font-weight="700">Does successful behavior depend on the remembered cue?</text>
+<text x="38.00" y="78.00" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#253C50" text-anchor="start" font-weight="400">Same frozen checkpoint and task seed; erasure controls remove information without changing weights.</text>
+<text x="223.00" y="124.00" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#253C50" text-anchor="middle" font-weight="700">Overall</text>
+<line x1="78.00" y1="421.00" x2="360.00" y2="421.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="66.00" y="426.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">0%</text>
+<line x1="78.00" y1="353.50" x2="360.00" y2="353.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="66.00" y="358.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">25%</text>
+<line x1="78.00" y1="286.00" x2="360.00" y2="286.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="66.00" y="291.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">50%</text>
+<line x1="78.00" y1="218.50" x2="360.00" y2="218.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="66.00" y="223.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">75%</text>
+<line x1="78.00" y1="151.00" x2="360.00" y2="151.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="66.00" y="156.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">100%</text>
+<text x="78.00" y="446.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">0</text>
+<text x="360.00" y="446.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">1</text>
+<line x1="78.00" y1="421.00" x2="360.00" y2="421.00" stroke="#71859A" stroke-width="1.3"/>
+<line x1="78.00" y1="151.00" x2="78.00" y2="421.00" stroke="#71859A" stroke-width="1.3"/>
+<line x1="78.00" y1="252.25" x2="360.00" y2="252.25" stroke="#526579" stroke-width="1.7" stroke-dasharray="6 5"/>
+<text x="219.00" y="488.00" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#526579" text-anchor="middle" font-weight="400">Dashed: expected cue-blind bound (62.5%)</text>
+<rect x="71.00" y="428.00" width="300.00" height="28.00" rx="0" fill="#FFFFFF"/>
+<rect x="108.00" y="229.76" width="48.00" height="191.24" rx="0" fill="#243B53"/>
+<text x="132.00" y="220.76" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#243B53" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">70.83%</text>
+<text x="132.00" y="445.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Normal</text>
+<text x="132.00" y="462.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">task</text>
+<rect x="199.00" y="253.94" width="48.00" height="167.06" rx="0" fill="#B53C36"/>
+<text x="223.00" y="244.94" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#B53C36" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">61.87%</text>
+<text x="223.00" y="445.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Cue</text>
+<text x="223.00" y="462.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">erased</text>
+<rect x="290.00" y="259.29" width="48.00" height="161.71" rx="0" fill="#664FA3"/>
+<text x="314.00" y="250.29" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#664FA3" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">59.89%</text>
+<text x="314.00" y="445.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Memory</text>
+<text x="314.00" y="462.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">reset</text>
+<text x="609.00" y="124.00" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#253C50" text-anchor="middle" font-weight="700">Go choice</text>
+<line x1="464.00" y1="421.00" x2="746.00" y2="421.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="452.00" y="426.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">0%</text>
+<line x1="464.00" y1="353.50" x2="746.00" y2="353.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="452.00" y="358.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">25%</text>
+<line x1="464.00" y1="286.00" x2="746.00" y2="286.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="452.00" y="291.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">50%</text>
+<line x1="464.00" y1="218.50" x2="746.00" y2="218.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="452.00" y="223.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">75%</text>
+<line x1="464.00" y1="151.00" x2="746.00" y2="151.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="452.00" y="156.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">100%</text>
+<text x="464.00" y="446.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">0</text>
+<text x="746.00" y="446.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">1</text>
+<line x1="464.00" y1="421.00" x2="746.00" y2="421.00" stroke="#71859A" stroke-width="1.3"/>
+<line x1="464.00" y1="151.00" x2="464.00" y2="421.00" stroke="#71859A" stroke-width="1.3"/>
+<rect x="457.00" y="428.00" width="300.00" height="28.00" rx="0" fill="#FFFFFF"/>
+<rect x="494.00" y="255.47" width="48.00" height="165.53" rx="0" fill="#243B53"/>
+<text x="518.00" y="246.47" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#243B53" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">61.31%</text>
+<text x="518.00" y="445.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Normal</text>
+<text x="518.00" y="462.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">task</text>
+<rect x="585.00" y="287.98" width="48.00" height="133.02" rx="0" fill="#B53C36"/>
+<text x="609.00" y="278.98" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#B53C36" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">49.27%</text>
+<text x="609.00" y="445.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Cue</text>
+<text x="609.00" y="462.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">erased</text>
+<rect x="676.00" y="284.03" width="48.00" height="136.97" rx="0" fill="#664FA3"/>
+<text x="700.00" y="275.03" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#664FA3" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">50.73%</text>
+<text x="700.00" y="445.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Memory</text>
+<text x="700.00" y="462.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">reset</text>
+<text x="995.00" y="124.00" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#253C50" text-anchor="middle" font-weight="700">No-go withholding</text>
+<line x1="850.00" y1="421.00" x2="1132.00" y2="421.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="838.00" y="426.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">0%</text>
+<line x1="850.00" y1="353.50" x2="1132.00" y2="353.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="838.00" y="358.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">25%</text>
+<line x1="850.00" y1="286.00" x2="1132.00" y2="286.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="838.00" y="291.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">50%</text>
+<line x1="850.00" y1="218.50" x2="1132.00" y2="218.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="838.00" y="223.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">75%</text>
+<line x1="850.00" y1="151.00" x2="1132.00" y2="151.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="838.00" y="156.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">100%</text>
+<text x="850.00" y="446.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">0</text>
+<text x="1132.00" y="446.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">1</text>
+<line x1="850.00" y1="421.00" x2="1132.00" y2="421.00" stroke="#71859A" stroke-width="1.3"/>
+<line x1="850.00" y1="151.00" x2="850.00" y2="421.00" stroke="#71859A" stroke-width="1.3"/>
+<rect x="843.00" y="428.00" width="300.00" height="28.00" rx="0" fill="#FFFFFF"/>
+<rect x="880.00" y="153.48" width="48.00" height="267.52" rx="0" fill="#243B53"/>
+<text x="904.00" y="144.48" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#243B53" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">99.08%</text>
+<text x="904.00" y="445.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Normal</text>
+<text x="904.00" y="462.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">task</text>
+<rect x="971.00" y="152.99" width="48.00" height="268.01" rx="0" fill="#B53C36"/>
+<text x="995.00" y="143.99" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#B53C36" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">99.26%</text>
+<text x="995.00" y="445.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Cue</text>
+<text x="995.00" y="462.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">erased</text>
+<rect x="1062.00" y="185.90" width="48.00" height="235.10" rx="0" fill="#664FA3"/>
+<text x="1086.00" y="176.90" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#664FA3" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">87.07%</text>
+<text x="1086.00" y="445.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Memory</text>
+<text x="1086.00" y="462.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">reset</text>
+<text x="38.00" y="518.00" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#253C50" text-anchor="start" font-weight="400">Cue and memory interventions change input/state distributions; effects are conditional task diagnostics.</text>
+<text x="38.00" y="540.00" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#253C50" text-anchor="start" font-weight="400">Uniform three-action chance = 33.3%; a cue-blind policy can score up to 62.5% in expectation using the go signal.</text>
+</svg>

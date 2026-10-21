@@ -1,0 +1,24 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Lesion Lab · neural population</title>
+<style>body{background:#101720;color:#e3edf3;font:16px/1.6 system-ui;margin:0}main{max-width:1100px;margin:auto;padding:44px 24px}h1{font-size:46px;letter-spacing:-2px}h2{font-weight:500}.muted{color:#9fb1bf}.stats{display:flex;gap:32px;flex-wrap:wrap}.stats strong{font-size:30px;display:block}.card{padding:24px;border:1px solid #344352;border-radius:10px;margin:22px 0}table{width:100%;border-collapse:collapse;font-size:14px}td,th{text-align:left;border-bottom:1px solid #344352;padding:12px 8px}th{color:#9fb1bf}a{color:#83d7cc}pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:12px}.note{border-left:3px solid #e6b777;padding-left:14px}@media(max-width:650px){table{font-size:11px}td,th{padding:8px 3px}}</style>
+<main><p class="muted">LESION LAB / LARGE NEURAL POPULATION</p><h1>Recurrent agents under injury</h1>
+<div class="stats"><div><strong>16,384</strong>resident agents</div><div><strong>64</strong>recurrent units / agent</div><div><strong>79,740,928</strong>inherited weights</div></div>
+<div class="card"><h2>A richer computational organism</h2><p>Each agent has a fully recurrent neural controller, temporary memory state, finite energy, stable identity and ancestry. Successful task responses alter its energy. Reproduction copies and mutates inherited weights into a new individual.</p><p class="note">Birth is supplied by the simulator. These agents did not emerge from the BFF soup. The controller has no gradient training or lifetime relearning. This is a computational lesion experiment with untested biological validity.</p></div>
+<div class="card"><h2>Frozen-weight task assays</h2><p class="muted">Remember an initial cue through distractors, then obey an explicitly supplied normal/reversed rule on go trials or withhold on no-go trials. Assay memory is reset per episode. Uniform three-action chance is 33.3%; always withholding is 25%; static left/right choice is 37.5% in expectation.</p><div style="overflow:auto"><table><tr><th>Condition</th><th>Time</th><th>Overall</th><th>Go choice</th><th>No-go withholding</th></tr><tr><td>Shared baseline</td><td>Before injury</td><td>70.83%</td><td>61.31%</td><td>99.08%</td></tr><tr><td>sham</td><td>Immediate</td><td>70.83%</td><td>61.31%</td><td>99.08%</td></tr><tr><td>sham</td><td>Follow-up</td><td>71.88%</td><td>62.69%</td><td>99.15%</td></tr><tr><td>designated_region</td><td>Immediate</td><td>68.09%</td><td>58.46%</td><td>96.66%</td></tr><tr><td>designated_region</td><td>Follow-up</td><td>71.96%</td><td>62.77%</td><td>99.21%</td></tr><tr><td>random</td><td>Immediate</td><td>67.67%</td><td>57.83%</td><td>96.84%</td></tr><tr><td>random</td><td>Follow-up</td><td>71.75%</td><td>62.55%</td><td>99.03%</td></tr></table></div><p class="muted">Same sampling seed across arms. These are task probes nested inside one evolved world, not independent evolutionary replications. See raw assay JSON for realized condition counts.</p></div>
+<div class="card"><h2>Intervention and inheritance</h2><p>The designated region is the final quarter of recurrent units. A focal intervention disables units within that region; the control disables the same number across all recurrent units. This partition has no established executive specialization.</p><p>Acquired masks follow the injured individual's stable ID. New offspring have new identities and healthy masks. A falling injured population can reflect replacement; it is not evidence of repair.</p></div>
+<div class="card"><h2>Run record</h2><pre>LESION LAB — RECURRENT NEURAL POPULATION
+
+Population: 16,384 resident agents; 64 recurrent units each
+Evolved parameters: 4,867 per agent; 79,740,928 across the population
+Warmup decisions: 100,000,000
+Warmup task accuracy: 70.83%
+Reproduction: simulator-supplied energy threshold; inherited weights mutate at birth.
+No gradient training or lifetime relearning is implemented in this evolutionary model.
+The designated lesion region is an engineered partition, not a verified frontal analogue.
+
+sham: assay 71.88%; cumulative births 867,272; original injured agents alive 0
+designated_region: assay 71.96%; cumulative births 865,802; original injured agents alive 13
+random: assay 71.75%; cumulative births 866,043; original injured agents alive 11
+
+Status: complete
+Report: ./runs/large-16384-long-seed42/report.html
+Manifest: ./runs/large-16384-long-seed42/manifest.json</pre><p><a href="manifest.json">Complete manifest</a> · <a href="baseline_assay.json">Baseline assay</a> · <a href="summary.txt">Terminal summary</a></p><details><summary>Parameters and measured outcomes</summary><p><a href="manifest.json">Download aggregate manifest</a>. Full individual records are in the population checkpoints.</p></details></div></main></html>

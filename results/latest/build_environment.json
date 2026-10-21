@@ -1,0 +1,11 @@
+{
+  "compiler_version": "Apple clang version 14.0.3 (clang-1403.0.22.14.1)\nTarget: x86_64-apple-darwin22.6.0\nThread model: posix\nInstalledDir: /Library/Developer/CommandLineTools/usr/bin\n",
+  "compiler_flags": [
+    "-std=c++17",
+    "-O3",
+    "-Wall",
+    "-Wextra",
+    "-pedantic"
+  ],
+  "numeric_caution": "Native float32 and platform tanh; cross-platform bit identity is not promised."
+}

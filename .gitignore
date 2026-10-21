@@ -1,0 +1,12 @@
+build/
+__pycache__/
+*.pyc
+*.tmp
+runs/
+release/
+releases/
+*.bin
+*.nrl
+*.bin.gz
+*.part[0-9]*
+.DS_Store

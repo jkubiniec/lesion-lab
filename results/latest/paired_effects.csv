@@ -1,0 +1,10 @@
+arm,metric,cohort,paired_individuals,mean_delta,bootstrap_ci95_low,bootstrap_ci95_high,individuals_improved,individuals_worsened,individuals_unchanged,paired_trials,trials_gained,trials_lost,actions_changed,action_change_fraction,bootstrap_repeats,resampling_unit,inference_scope
+sham,accuracy,all_matched,512,0.0,0.0,0.0,0,0,512,32768,0,0,0,0.0,2000,sampled_individual,within_one_evolved_world_only
+sham,go_accuracy,all_matched,512,0.0,0.0,0.0,0,0,512,24505,0,0,0,0.0,2000,sampled_individual,within_one_evolved_world_only
+sham,nogo_accuracy,all_matched,512,0.0,0.0,0.0,0,0,512,8263,0,0,0,0.0,2000,sampled_individual,within_one_evolved_world_only
+designated_region,accuracy,injured_at_immediate,140,-0.10011160714285715,-0.11585100446428571,-0.08604910714285714,11,121,8,8960,361,1258,1803,0.20122767857142856,2000,sampled_individual,within_one_evolved_world_only
+designated_region,go_accuracy,injured_at_immediate,140,-0.1042231567062283,-0.12363763073707043,-0.08652328713340245,17,115,8,6690,357,1054,1593,0.23811659192825113,2000,sampled_individual,within_one_evolved_world_only
+designated_region,nogo_accuracy,injured_at_immediate,140,-0.081142749898389,-0.11149957266874976,-0.05444603891397071,2,40,98,2270,4,204,210,0.09251101321585903,2000,sampled_individual,within_one_evolved_world_only
+random,accuracy,injured_at_immediate,140,-0.11573660714285715,-0.13236886160714287,-0.09988560267857145,9,119,12,8960,413,1450,2115,0.23604910714285715,2000,sampled_individual,within_one_evolved_world_only
+random,go_accuracy,injured_at_immediate,140,-0.12908910852572866,-0.1509109800936122,-0.11042831374731304,9,119,12,6690,405,1257,1914,0.2860986547085202,2000,sampled_individual,within_one_evolved_world_only
+random,nogo_accuracy,injured_at_immediate,140,-0.0754375016170129,-0.10973312308376301,-0.04502542531320589,5,35,100,2270,8,193,201,0.08854625550660793,2000,sampled_individual,within_one_evolved_world_only

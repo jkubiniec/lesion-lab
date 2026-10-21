@@ -1,0 +1,3 @@
+control,source_file,samples,trials,episodes,accuracy,go_accuracy,nogo_accuracy
+erased,baseline_cue_erased_assay.json,512,64,32768,0.618743896484375,0.49267496429300145,0.9926176933317197
+memory-reset,baseline_memory_reset_assay.json,512,64,32768,0.59893798828125,0.5072842277086309,0.8707491225946993

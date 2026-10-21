@@ -1,0 +1,4 @@
+arm,original_injured,original_injured_alive,original_injured_lost,disabled_units_immediate,disabled_units_per_injured,retained_fraction,additional_births,injured_birth_replacements,repair_implemented
+sham,0,0,0,0,0,,95526,0,False
+designated_region,4096,13,4083,32768,8.0,0.003173828125,94056,4083,False
+random,4096,11,4085,32768,8.0,0.002685546875,94297,4085,False

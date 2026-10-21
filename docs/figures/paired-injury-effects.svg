@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="title description">
+<title id="title">Immediate change in the directly injured individuals</title><desc id="description">Each point is the mean within-individual immediate change relative to baseline. Error bars are bootstrap intervals over sampled individuals within a single evolved world; they do not represent evolutionary replication.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#526579"/></marker></defs>
+<rect width="1200" height="600" fill="#FFFFFF"/>
+<text x="38.00" y="44.00" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#172D42" text-anchor="start" font-weight="700">Immediate change in the directly injured individuals</text>
+<text x="38.00" y="77.00" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#253C50" text-anchor="start" font-weight="400">Same identities + same task probes · only sampled individuals with a realized injury mask</text>
+<text x="224.00" y="125.00" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#253C50" text-anchor="middle" font-weight="700">Overall</text>
+<line x1="78.00" y1="408.00" x2="360.00" y2="408.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="66.00" y="413.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">-20.0 pp</text>
+<line x1="78.00" y1="344.25" x2="360.00" y2="344.25" stroke="#E2E8EE" stroke-width="1"/>
+<text x="66.00" y="349.25" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">-10.0 pp</text>
+<line x1="78.00" y1="280.50" x2="360.00" y2="280.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="66.00" y="285.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">+0.0 pp</text>
+<line x1="78.00" y1="216.75" x2="360.00" y2="216.75" stroke="#E2E8EE" stroke-width="1"/>
+<text x="66.00" y="221.75" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">+10.0 pp</text>
+<line x1="78.00" y1="153.00" x2="360.00" y2="153.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="66.00" y="158.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">+20.0 pp</text>
+<text x="78.00" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">0</text>
+<text x="360.00" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">1</text>
+<line x1="78.00" y1="408.00" x2="360.00" y2="408.00" stroke="#71859A" stroke-width="1.3"/>
+<line x1="78.00" y1="153.00" x2="78.00" y2="408.00" stroke="#71859A" stroke-width="1.3"/>
+<rect x="72.00" y="415.00" width="300.00" height="28.00" rx="0" fill="#FFFFFF"/>
+<line x1="78.00" y1="280.50" x2="360.00" y2="280.50" stroke="#526579" stroke-width="1.8" stroke-dasharray="6 5"/>
+<text x="151.32" y="432.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Designated</text>
+<text x="151.32" y="449.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">region</text>
+<line x1="151.32" y1="354.36" x2="151.32" y2="335.36" stroke="#B53C36" stroke-width="2.5"/>
+<line x1="144.32" y1="354.36" x2="158.32" y2="354.36" stroke="#B53C36" stroke-width="2"/>
+<line x1="144.32" y1="335.36" x2="158.32" y2="335.36" stroke="#B53C36" stroke-width="2"/>
+<circle cx="151.32" cy="344.32" r="6" fill="#B53C36"/>
+<text x="151.32" y="322.36" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B53C36" text-anchor="middle" font-weight="700" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">-10.01 pp</text>
+<text x="151.32" y="479.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">n = 140</text>
+<text x="286.68" y="432.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Scattered</text>
+<text x="286.68" y="449.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">units</text>
+<line x1="286.68" y1="364.89" x2="286.68" y2="344.18" stroke="#664FA3" stroke-width="2.5"/>
+<line x1="279.68" y1="364.89" x2="293.68" y2="364.89" stroke="#664FA3" stroke-width="2"/>
+<line x1="279.68" y1="344.18" x2="293.68" y2="344.18" stroke="#664FA3" stroke-width="2"/>
+<circle cx="286.68" cy="354.28" r="6" fill="#664FA3"/>
+<text x="286.68" y="331.18" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#664FA3" text-anchor="middle" font-weight="700" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">-11.57 pp</text>
+<text x="286.68" y="479.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">n = 140</text>
+<text x="609.00" y="125.00" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#253C50" text-anchor="middle" font-weight="700">Go choice</text>
+<line x1="463.00" y1="408.00" x2="745.00" y2="408.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="451.00" y="413.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">-20.0 pp</text>
+<line x1="463.00" y1="344.25" x2="745.00" y2="344.25" stroke="#E2E8EE" stroke-width="1"/>
+<text x="451.00" y="349.25" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">-10.0 pp</text>
+<line x1="463.00" y1="280.50" x2="745.00" y2="280.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="451.00" y="285.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">+0.0 pp</text>
+<line x1="463.00" y1="216.75" x2="745.00" y2="216.75" stroke="#E2E8EE" stroke-width="1"/>
+<text x="451.00" y="221.75" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">+10.0 pp</text>
+<line x1="463.00" y1="153.00" x2="745.00" y2="153.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="451.00" y="158.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">+20.0 pp</text>
+<text x="463.00" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">0</text>
+<text x="745.00" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">1</text>
+<line x1="463.00" y1="408.00" x2="745.00" y2="408.00" stroke="#71859A" stroke-width="1.3"/>
+<line x1="463.00" y1="153.00" x2="463.00" y2="408.00" stroke="#71859A" stroke-width="1.3"/>
+<rect x="457.00" y="415.00" width="300.00" height="28.00" rx="0" fill="#FFFFFF"/>
+<line x1="463.00" y1="280.50" x2="745.00" y2="280.50" stroke="#526579" stroke-width="1.8" stroke-dasharray="6 5"/>
+<text x="536.32" y="432.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Designated</text>
+<text x="536.32" y="449.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">region</text>
+<line x1="536.32" y1="359.32" x2="536.32" y2="335.66" stroke="#B53C36" stroke-width="2.5"/>
+<line x1="529.32" y1="359.32" x2="543.32" y2="359.32" stroke="#B53C36" stroke-width="2"/>
+<line x1="529.32" y1="335.66" x2="543.32" y2="335.66" stroke="#B53C36" stroke-width="2"/>
+<circle cx="536.32" cy="346.94" r="6" fill="#B53C36"/>
+<text x="536.32" y="322.66" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B53C36" text-anchor="middle" font-weight="700" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">-10.42 pp</text>
+<text x="536.32" y="479.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">n = 140</text>
+<text x="671.68" y="432.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Scattered</text>
+<text x="671.68" y="449.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">units</text>
+<line x1="671.68" y1="376.71" x2="671.68" y2="350.90" stroke="#664FA3" stroke-width="2.5"/>
+<line x1="664.68" y1="376.71" x2="678.68" y2="376.71" stroke="#664FA3" stroke-width="2"/>
+<line x1="664.68" y1="350.90" x2="678.68" y2="350.90" stroke="#664FA3" stroke-width="2"/>
+<circle cx="671.68" cy="362.79" r="6" fill="#664FA3"/>
+<text x="671.68" y="337.90" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#664FA3" text-anchor="middle" font-weight="700" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">-12.91 pp</text>
+<text x="671.68" y="479.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">n = 140</text>
+<text x="994.00" y="125.00" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#253C50" text-anchor="middle" font-weight="700">No-go withholding</text>
+<line x1="848.00" y1="408.00" x2="1130.00" y2="408.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="836.00" y="413.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">-20.0 pp</text>
+<line x1="848.00" y1="344.25" x2="1130.00" y2="344.25" stroke="#E2E8EE" stroke-width="1"/>
+<text x="836.00" y="349.25" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">-10.0 pp</text>
+<line x1="848.00" y1="280.50" x2="1130.00" y2="280.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="836.00" y="285.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">+0.0 pp</text>
+<line x1="848.00" y1="216.75" x2="1130.00" y2="216.75" stroke="#E2E8EE" stroke-width="1"/>
+<text x="836.00" y="221.75" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">+10.0 pp</text>
+<line x1="848.00" y1="153.00" x2="1130.00" y2="153.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="836.00" y="158.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">+20.0 pp</text>
+<text x="848.00" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">0</text>
+<text x="1130.00" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">1</text>
+<line x1="848.00" y1="408.00" x2="1130.00" y2="408.00" stroke="#71859A" stroke-width="1.3"/>
+<line x1="848.00" y1="153.00" x2="848.00" y2="408.00" stroke="#71859A" stroke-width="1.3"/>
+<rect x="842.00" y="415.00" width="300.00" height="28.00" rx="0" fill="#FFFFFF"/>
+<line x1="848.00" y1="280.50" x2="1130.00" y2="280.50" stroke="#526579" stroke-width="1.8" stroke-dasharray="6 5"/>
+<text x="921.32" y="432.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Designated</text>
+<text x="921.32" y="449.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">region</text>
+<line x1="921.32" y1="351.58" x2="921.32" y2="315.21" stroke="#B53C36" stroke-width="2.5"/>
+<line x1="914.32" y1="351.58" x2="928.32" y2="351.58" stroke="#B53C36" stroke-width="2"/>
+<line x1="914.32" y1="315.21" x2="928.32" y2="315.21" stroke="#B53C36" stroke-width="2"/>
+<circle cx="921.32" cy="332.23" r="6" fill="#B53C36"/>
+<text x="921.32" y="302.21" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B53C36" text-anchor="middle" font-weight="700" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">-8.11 pp</text>
+<text x="921.32" y="479.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">n = 140</text>
+<text x="1056.68" y="432.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Scattered</text>
+<text x="1056.68" y="449.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">units</text>
+<line x1="1056.68" y1="350.45" x2="1056.68" y2="309.20" stroke="#664FA3" stroke-width="2.5"/>
+<line x1="1049.68" y1="350.45" x2="1063.68" y2="350.45" stroke="#664FA3" stroke-width="2"/>
+<line x1="1049.68" y1="309.20" x2="1063.68" y2="309.20" stroke="#664FA3" stroke-width="2"/>
+<circle cx="1056.68" cy="328.59" r="6" fill="#664FA3"/>
+<text x="1056.68" y="296.20" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#664FA3" text-anchor="middle" font-weight="700" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">-7.54 pp</text>
+<text x="1056.68" y="479.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">n = 140</text>
+<text x="38.00" y="532.00" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#253C50" text-anchor="start" font-weight="400">Y axis: change in accuracy (percentage points); lower values mean worse task scores.</text>
+<text x="38.00" y="554.00" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#253C50" text-anchor="start" font-weight="400">Bars: 95% percentile bootstrap over sampled individual means, within this world only.</text>
+<text x="38.00" y="576.00" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#253C50" text-anchor="start" font-weight="400">This is not a confidence interval over independent runs, and no biological or clinical inference is established.</text>
+</svg>

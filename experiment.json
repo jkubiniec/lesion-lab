@@ -1,0 +1,26 @@
+{
+  "experiment": "lesion-lab-16384-seed42",
+  "population": 16384,
+  "hidden": 64,
+  "seed": 42,
+  "decisions": 100000000,
+  "followup": 10000000,
+  "minimum_episodes": 10000000,
+  "severity": 0.5,
+  "exposure": 0.25,
+  "assay_samples": 512,
+  "assay_trials": 64,
+  "progress_every": 2000000,
+  "max_memory_mib": 512,
+  "max_checkpoint_gib": 3,
+  "minimum_free_gib": 5,
+  "cpu_seconds": 1200,
+  "max_run_seconds": 1800,
+  "counter_definitions": {
+    "decisions": "Scheduled visits to resident slots, including skips of dead slots.",
+    "neural_evaluations": "Actual recurrent controller updates.",
+    "episodes": "Complete-cue task probes scored after an eight-phase task."
+  },
+  "recorded_execution": "20M healthy prefix, resumed for 80M more; each of three branches then receives 10M additional scheduled steps.",
+  "reproduction_note": "This recipe runs the same 100M healthy trajectory without an intermediate stop; native checkpoint continuation is tested. Bit identity across compilers, architectures and math libraries is not promised."
+}

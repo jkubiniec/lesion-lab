@@ -1,0 +1,17 @@
+LESION LAB — RECURRENT NEURAL POPULATION
+
+Population: 16,384 resident agents; 64 recurrent units each
+Evolved parameters: 4,867 per agent; 79,740,928 across the population
+Warmup decisions: 100,000,000
+Warmup task accuracy: 70.83%
+Reproduction: simulator-supplied energy threshold; inherited weights mutate at birth.
+No gradient training or lifetime relearning is implemented in this evolutionary model.
+The designated lesion region is an engineered partition, not a verified frontal analogue.
+
+sham: assay 71.88%; cumulative births 867,272; original injured agents alive 0
+designated_region: assay 71.96%; cumulative births 865,802; original injured agents alive 13
+random: assay 71.75%; cumulative births 866,043; original injured agents alive 11
+
+Status: complete
+Report: ./runs/large-16384-long-seed42/report.html
+Manifest: ./runs/large-16384-long-seed42/manifest.json

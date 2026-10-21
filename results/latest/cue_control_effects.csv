@@ -1,0 +1,7 @@
+control,metric,cohort,paired_individuals,mean_delta,bootstrap_ci95_low,bootstrap_ci95_high,individuals_improved,individuals_worsened,individuals_unchanged,paired_trials,trials_gained,trials_lost,actions_changed,action_change_fraction,bootstrap_repeats,resampling_unit,inference_scope
+erased,accuracy,all_matched,512,-0.089569091796875,-0.09368972778320313,-0.08547897338867189,8,491,13,32768,149,3084,3304,0.100830078125,2000,sampled_individual,within_one_evolved_world_only
+erased,go_accuracy,all_matched,512,-0.12011076473593277,-0.12565900953835862,-0.11449499666300356,6,490,16,24505,108,3058,3235,0.132013874719445,2000,sampled_individual,within_one_evolved_world_only
+erased,nogo_accuracy,all_matched,512,0.0015515055516325351,-0.0009156292333491557,0.004247948918204123,23,18,471,8263,41,26,69,0.008350478034612127,2000,sampled_individual,within_one_evolved_world_only
+memory-reset,accuracy,all_matched,512,-0.109375,-0.11770782470703126,-0.10186691284179689,31,462,19,32768,1617,5201,6939,0.211761474609375,2000,sampled_individual,within_one_evolved_world_only
+memory-reset,go_accuracy,all_matched,512,-0.10567154823857565,-0.11291373096489901,-0.09876234174895099,35,454,23,24505,1594,4186,5886,0.24019587839216486,2000,sampled_individual,within_one_evolved_world_only
+memory-reset,nogo_accuracy,all_matched,512,-0.12124143484329811,-0.1416660183380953,-0.10127946258341318,17,129,366,8263,23,1015,1053,0.12743555609342855,2000,sampled_individual,within_one_evolved_world_only

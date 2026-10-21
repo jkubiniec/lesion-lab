@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 668" role="img" aria-labelledby="title description">
+<title id="title">Persistent injury versus population replacement</title><desc id="description">Original injured individuals retain their masks. A fall in injured survivors is attrition or replacement, not healing. Healthy newborns have new identities.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#526579"/></marker></defs>
+<rect width="1200" height="668" fill="#FFFFFF"/>
+<text x="38.00" y="44.00" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#172D42" text-anchor="start" font-weight="700">Persistent injury versus population replacement</text>
+<text x="38.00" y="77.00" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#253C50" text-anchor="start" font-weight="400">Same injured identities tracked through follow-up; the mask has no repair or plasticity rule.</text>
+<text x="79.00" y="122.00" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#253C50" text-anchor="start" font-weight="700">Original injured individuals still alive</text>
+<line x1="79.00" y1="468.00" x2="556.00" y2="468.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="67.00" y="473.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">0%</text>
+<line x1="79.00" y1="388.75" x2="556.00" y2="388.75" stroke="#E2E8EE" stroke-width="1"/>
+<text x="67.00" y="393.75" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">25%</text>
+<line x1="79.00" y1="309.50" x2="556.00" y2="309.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="67.00" y="314.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">50%</text>
+<line x1="79.00" y1="230.25" x2="556.00" y2="230.25" stroke="#E2E8EE" stroke-width="1"/>
+<text x="67.00" y="235.25" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">75%</text>
+<line x1="79.00" y1="151.00" x2="556.00" y2="151.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="67.00" y="156.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">100%</text>
+<text x="79.00" y="493.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">0</text>
+<text x="198.25" y="493.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">2.5</text>
+<text x="317.50" y="493.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">5</text>
+<text x="436.75" y="493.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">7.5</text>
+<text x="556.00" y="493.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">10</text>
+<line x1="79.00" y1="468.00" x2="556.00" y2="468.00" stroke="#71859A" stroke-width="1.3"/>
+<line x1="79.00" y1="151.00" x2="79.00" y2="468.00" stroke="#71859A" stroke-width="1.3"/>
+<text x="677.00" y="122.00" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#253C50" text-anchor="start" font-weight="700">Additional births during follow-up</text>
+<line x1="677.00" y1="468.00" x2="1154.00" y2="468.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="665.00" y="473.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">0</text>
+<line x1="677.00" y1="388.75" x2="1154.00" y2="388.75" stroke="#E2E8EE" stroke-width="1"/>
+<text x="665.00" y="393.75" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">24,000</text>
+<line x1="677.00" y1="309.50" x2="1154.00" y2="309.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="665.00" y="314.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">48,000</text>
+<line x1="677.00" y1="230.25" x2="1154.00" y2="230.25" stroke="#E2E8EE" stroke-width="1"/>
+<text x="665.00" y="235.25" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">72,000</text>
+<line x1="677.00" y1="151.00" x2="1154.00" y2="151.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="665.00" y="156.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">96,000</text>
+<text x="677.00" y="493.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">0</text>
+<text x="796.25" y="493.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">2.5</text>
+<text x="915.50" y="493.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">5</text>
+<text x="1034.75" y="493.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">7.5</text>
+<text x="1154.00" y="493.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">10</text>
+<line x1="677.00" y1="468.00" x2="1154.00" y2="468.00" stroke="#71859A" stroke-width="1.3"/>
+<line x1="677.00" y1="151.00" x2="677.00" y2="468.00" stroke="#71859A" stroke-width="1.3"/>
+<polyline fill="none" points="677.00,468.00 772.40,404.62 867.80,343.02 963.20,281.00 1058.60,215.99 1154.00,152.57" stroke="#007C83" stroke-width="3" stroke-linejoin="round"/>
+<polyline fill="none" points="79.00,151.00 174.40,365.92 269.80,433.79 365.20,457.63 460.60,464.59 556.00,466.99" stroke="#B53C36" stroke-width="3" stroke-linejoin="round"/>
+<polyline fill="none" points="677.00,468.00 772.40,407.60 867.80,347.50 963.20,285.88 1058.60,220.34 1154.00,157.42" stroke="#B53C36" stroke-width="3" stroke-linejoin="round"/>
+<polyline fill="none" points="79.00,151.00 174.40,368.32 269.80,437.04 365.20,458.17 460.60,465.37 556.00,467.15" stroke="#664FA3" stroke-width="3" stroke-linejoin="round"/>
+<polyline fill="none" points="677.00,468.00 772.40,407.44 867.80,346.93 963.20,285.67 1058.60,220.27 1154.00,156.62" stroke="#664FA3" stroke-width="3" stroke-linejoin="round"/>
+<text x="317.00" y="518.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="middle" font-weight="400">Additional decisions (millions)</text>
+<text x="915.00" y="518.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="middle" font-weight="400">Additional decisions (millions)</text>
+<line x1="79.00" y1="554.00" x2="108.00" y2="554.00" stroke="#007C83" stroke-width="3"/>
+<text x="119.00" y="560.00" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#253C50" text-anchor="start" font-weight="400">Sham</text>
+<line x1="379.00" y1="554.00" x2="408.00" y2="554.00" stroke="#B53C36" stroke-width="3"/>
+<text x="419.00" y="560.00" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#253C50" text-anchor="start" font-weight="400">Designated region</text>
+<line x1="679.00" y1="554.00" x2="708.00" y2="554.00" stroke="#664FA3" stroke-width="3"/>
+<text x="719.00" y="560.00" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#253C50" text-anchor="start" font-weight="400">Scattered units</text>
+<text x="38.00" y="609.00" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#253C50" text-anchor="start" font-weight="400">A population can regain task performance while injured individuals disappear and healthy offspring enter.</text>
+<text x="38.00" y="631.00" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#253C50" text-anchor="start" font-weight="400">This model cannot establish neural repair: acquired masks persist, and lifetime weight learning is absent.</text>
+<text x="38.00" y="653.00" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#253C50" text-anchor="start" font-weight="400">Sham has no injured cohort; its births appear in the right panel.</text>
+</svg>

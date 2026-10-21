@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 765" role="img" aria-labelledby="title description">
+<title id="title">What an acquired injury changes</title><desc id="description">Inherited weights, transient memory, and injury mask are distinct. Injury clamps selected recurrent units to zero without editing weights. Newborns inherit mutated weights and a healthy mask.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#526579"/></marker></defs>
+<rect width="1200" height="765" fill="#FFFFFF"/>
+<text x="38.00" y="44.00" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#172D42" text-anchor="start" font-weight="700">What an acquired injury changes</text>
+<text x="38.00" y="76.00" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#253C50" text-anchor="start" font-weight="400">16,384 resident agents · 64 recurrent units each · 4,867 parameters per agent</text>
+<rect x="38.00" y="112.00" width="292.00" height="134.00" rx="10" fill="#EFF4F8" stroke="#C5D1DA"/>
+<text x="56.00" y="142.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#007C83" text-anchor="start" font-weight="700">Inherited weights W</text>
+<text x="56.00" y="170.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Input + recurrent + action weights</text>
+<text x="56.00" y="193.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Copied and mutated at birth</text>
+<text x="56.00" y="216.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Not changed by the intervention</text>
+<rect x="454.00" y="112.00" width="292.00" height="134.00" rx="10" fill="#EFF4F8" stroke="#C5D1DA"/>
+<text x="472.00" y="142.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#243B53" text-anchor="start" font-weight="700">Temporary state h</text>
+<text x="472.00" y="170.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Carries information within a trial</text>
+<text x="472.00" y="193.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Reset at each cue</text>
+<text x="472.00" y="216.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Not inherited by offspring</text>
+<rect x="870.00" y="112.00" width="292.00" height="134.00" rx="10" fill="#FFF1EC" stroke="#C5D1DA"/>
+<text x="888.00" y="142.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#B53C36" text-anchor="start" font-weight="700">Acquired mask m</text>
+<text x="888.00" y="170.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Selected units forced to zero</text>
+<text x="888.00" y="193.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Persists in the same individual</text>
+<text x="888.00" y="216.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">New offspring have m = 0</text>
+<line x1="330.00" y1="180.00" x2="442.00" y2="180.00" stroke="#AAB7C4" stroke-width="1" marker-end="url(#arrow)"/>
+<line x1="870.00" y1="180.00" x2="758.00" y2="180.00" stroke="#B53C36" stroke-width="1" marker-end="url(#arrow)"/>
+<text x="600.00" y="291.00" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#253C50" text-anchor="middle" font-weight="700">h(t+1) = (1 − m) × tanh(Wrec h(t) + Win x(t) + b)</text>
+<rect x="38.00" y="329.00" width="300.00" height="131.00" rx="10" fill="#EFF4F8" stroke="#C5D1DA"/>
+<text x="56.00" y="359.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#243B53" text-anchor="start" font-weight="700">Eight-step task</text>
+<text x="56.00" y="387.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Cue → distractors → probe</text>
+<text x="56.00" y="410.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Probe supplies the current rule</text>
+<text x="56.00" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Choose left, right, or withhold</text>
+<rect x="451.00" y="329.00" width="300.00" height="131.00" rx="10" fill="#EDF7F7" stroke="#C5D1DA"/>
+<text x="469.00" y="359.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#007C83" text-anchor="start" font-weight="700">Recurrent controller</text>
+<text x="469.00" y="387.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">64 interacting hidden units</text>
+<text x="469.00" y="410.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Masked units send no activity</text>
+<text x="469.00" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Three action scores → argmax</text>
+<rect x="864.00" y="329.00" width="300.00" height="131.00" rx="10" fill="#EFF4F8" stroke="#C5D1DA"/>
+<text x="882.00" y="359.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#243B53" text-anchor="start" font-weight="700">Energy and selection</text>
+<text x="882.00" y="387.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Correct responses earn energy</text>
+<text x="882.00" y="410.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Threshold triggers supplied birth</text>
+<text x="882.00" y="433.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Low-energy agents can die</text>
+<line x1="338.00" y1="395.00" x2="438.00" y2="395.00" stroke="#AAB7C4" stroke-width="1" marker-end="url(#arrow)"/>
+<line x1="751.00" y1="395.00" x2="851.00" y2="395.00" stroke="#AAB7C4" stroke-width="1" marker-end="url(#arrow)"/>
+<rect x="38.00" y="509.00" width="538.00" height="159.00" rx="10" fill="#FFF1EC" stroke="#C5D1DA"/>
+<text x="56.00" y="539.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#B53C36" text-anchor="start" font-weight="700">Injured survivor</text>
+<text x="56.00" y="567.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Same identity, same inherited weights, same mask</text>
+<text x="56.00" y="590.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Disabled units remain disabled during follow-up</text>
+<text x="56.00" y="613.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Changes in behavior can come from altered dynamics</text>
+<text x="56.00" y="636.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">No plasticity or repair process is implemented</text>
+<rect x="624.00" y="509.00" width="538.00" height="159.00" rx="10" fill="#EDF7F7" stroke="#C5D1DA"/>
+<text x="642.00" y="539.00" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#007C83" text-anchor="start" font-weight="700">New individual at a population slot</text>
+<text x="642.00" y="567.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">New identity and parent record</text>
+<text x="642.00" y="590.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Inherited weights copied with random mutation</text>
+<text x="642.00" y="613.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Empty memory state and healthy injury mask</text>
+<text x="642.00" y="636.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">Replacement is not healing of the injured individual</text>
+<text x="38.00" y="709.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">The final quarter is a designated partition, not a validated frontal lobe analogue.</text>
+<text x="38.00" y="732.00" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#253C50" text-anchor="start" font-weight="400">This is a computational lesion model; biological and clinical validity remain untested.</text>
+</svg>

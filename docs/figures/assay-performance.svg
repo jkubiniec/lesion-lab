@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title description">
+<title id="title">Task performance before and after intervention</title><desc id="description">Frozen-weight assays sample living agents. Follow-up samples may contain different identities; these bars do not show within-person recovery.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#526579"/></marker></defs>
+<rect width="1200" height="620" fill="#FFFFFF"/>
+<text x="38.00" y="44.00" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#172D42" text-anchor="start" font-weight="700">Task performance before and after intervention</text>
+<text x="38.00" y="77.00" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#253C50" text-anchor="start" font-weight="400">Frozen-weight assays · overall population samples · follow-up may include replacement individuals</text>
+<text x="223.00" y="123.00" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#253C50" text-anchor="middle" font-weight="700">Overall</text>
+<line x1="70.00" y1="445.00" x2="376.00" y2="445.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="58.00" y="450.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">0%</text>
+<line x1="70.00" y1="376.50" x2="376.00" y2="376.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="58.00" y="381.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">25%</text>
+<line x1="70.00" y1="308.00" x2="376.00" y2="308.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="58.00" y="313.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">50%</text>
+<line x1="70.00" y1="239.50" x2="376.00" y2="239.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="58.00" y="244.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">75%</text>
+<line x1="70.00" y1="171.00" x2="376.00" y2="171.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="58.00" y="176.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">100%</text>
+<text x="70.00" y="470.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">0</text>
+<text x="376.00" y="470.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">1</text>
+<line x1="70.00" y1="445.00" x2="376.00" y2="445.00" stroke="#71859A" stroke-width="1.3"/>
+<line x1="70.00" y1="171.00" x2="70.00" y2="445.00" stroke="#71859A" stroke-width="1.3"/>
+<rect x="64.00" y="451.00" width="320.00" height="32.00" rx="0" fill="#FFFFFF"/>
+<line x1="70.00" y1="250.92" x2="376.00" y2="250.92" stroke="#243B53" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="223.00" y="147.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B53" text-anchor="middle" font-weight="400">Baseline 70.8%</text>
+<rect x="91.00" y="250.92" width="26.00" height="194.08" rx="0" fill="#007C83" stroke="#007C83"/>
+<text x="104.00" y="243.92" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#007C83" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">70.8</text>
+<rect x="122.00" y="248.04" width="26.00" height="196.96" rx="0" fill="#FFFFFF" stroke="#007C83"/>
+<text x="135.00" y="241.04" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#007C83" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">71.9</text>
+<text x="121.00" y="469.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Sham</text>
+<text x="121.00" y="486.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400"></text>
+<rect x="194.00" y="258.42" width="26.00" height="186.58" rx="0" fill="#B53C36" stroke="#B53C36"/>
+<text x="207.00" y="251.42" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B53C36" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">68.1</text>
+<rect x="225.00" y="247.83" width="26.00" height="197.17" rx="0" fill="#FFFFFF" stroke="#B53C36"/>
+<text x="238.00" y="240.83" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B53C36" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">72.0</text>
+<text x="224.00" y="469.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Designated</text>
+<text x="224.00" y="486.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">region</text>
+<rect x="297.00" y="259.59" width="26.00" height="185.41" rx="0" fill="#664FA3" stroke="#664FA3"/>
+<text x="310.00" y="252.59" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#664FA3" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">67.7</text>
+<rect x="328.00" y="248.41" width="26.00" height="196.59" rx="0" fill="#FFFFFF" stroke="#664FA3"/>
+<text x="341.00" y="241.41" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#664FA3" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">71.7</text>
+<text x="327.00" y="469.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Scattered</text>
+<text x="327.00" y="486.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400"></text>
+<text x="609.00" y="123.00" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#253C50" text-anchor="middle" font-weight="700">Go choice</text>
+<line x1="456.00" y1="445.00" x2="762.00" y2="445.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="444.00" y="450.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">0%</text>
+<line x1="456.00" y1="376.50" x2="762.00" y2="376.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="444.00" y="381.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">25%</text>
+<line x1="456.00" y1="308.00" x2="762.00" y2="308.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="444.00" y="313.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">50%</text>
+<line x1="456.00" y1="239.50" x2="762.00" y2="239.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="444.00" y="244.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">75%</text>
+<line x1="456.00" y1="171.00" x2="762.00" y2="171.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="444.00" y="176.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">100%</text>
+<text x="456.00" y="470.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">0</text>
+<text x="762.00" y="470.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">1</text>
+<line x1="456.00" y1="445.00" x2="762.00" y2="445.00" stroke="#71859A" stroke-width="1.3"/>
+<line x1="456.00" y1="171.00" x2="456.00" y2="445.00" stroke="#71859A" stroke-width="1.3"/>
+<rect x="450.00" y="451.00" width="320.00" height="32.00" rx="0" fill="#FFFFFF"/>
+<line x1="456.00" y1="277.02" x2="762.00" y2="277.02" stroke="#243B53" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="609.00" y="147.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B53" text-anchor="middle" font-weight="400">Baseline 61.3%</text>
+<rect x="477.00" y="277.02" width="26.00" height="167.98" rx="0" fill="#007C83" stroke="#007C83"/>
+<text x="490.00" y="270.02" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#007C83" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">61.3</text>
+<rect x="508.00" y="273.23" width="26.00" height="171.77" rx="0" fill="#FFFFFF" stroke="#007C83"/>
+<text x="521.00" y="266.23" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#007C83" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">62.7</text>
+<text x="507.00" y="469.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Sham</text>
+<text x="507.00" y="486.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400"></text>
+<rect x="580.00" y="284.82" width="26.00" height="160.18" rx="0" fill="#B53C36" stroke="#B53C36"/>
+<text x="593.00" y="277.82" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B53C36" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">58.5</text>
+<rect x="611.00" y="273.01" width="26.00" height="171.99" rx="0" fill="#FFFFFF" stroke="#B53C36"/>
+<text x="624.00" y="266.01" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B53C36" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">62.8</text>
+<text x="610.00" y="469.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Designated</text>
+<text x="610.00" y="486.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">region</text>
+<rect x="683.00" y="286.55" width="26.00" height="158.45" rx="0" fill="#664FA3" stroke="#664FA3"/>
+<text x="696.00" y="279.55" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#664FA3" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">57.8</text>
+<rect x="714.00" y="273.62" width="26.00" height="171.38" rx="0" fill="#FFFFFF" stroke="#664FA3"/>
+<text x="727.00" y="266.62" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#664FA3" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">62.5</text>
+<text x="713.00" y="469.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Scattered</text>
+<text x="713.00" y="486.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400"></text>
+<text x="995.00" y="123.00" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#253C50" text-anchor="middle" font-weight="700">No-go withholding</text>
+<line x1="842.00" y1="445.00" x2="1148.00" y2="445.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="830.00" y="450.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">0%</text>
+<line x1="842.00" y1="376.50" x2="1148.00" y2="376.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="830.00" y="381.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">25%</text>
+<line x1="842.00" y1="308.00" x2="1148.00" y2="308.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="830.00" y="313.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">50%</text>
+<line x1="842.00" y1="239.50" x2="1148.00" y2="239.50" stroke="#E2E8EE" stroke-width="1"/>
+<text x="830.00" y="244.50" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">75%</text>
+<line x1="842.00" y1="171.00" x2="1148.00" y2="171.00" stroke="#E2E8EE" stroke-width="1"/>
+<text x="830.00" y="176.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="end" font-weight="400">100%</text>
+<text x="842.00" y="470.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">0</text>
+<text x="1148.00" y="470.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#253C50" text-anchor="middle" font-weight="400">1</text>
+<line x1="842.00" y1="445.00" x2="1148.00" y2="445.00" stroke="#71859A" stroke-width="1.3"/>
+<line x1="842.00" y1="171.00" x2="842.00" y2="445.00" stroke="#71859A" stroke-width="1.3"/>
+<rect x="836.00" y="451.00" width="320.00" height="32.00" rx="0" fill="#FFFFFF"/>
+<line x1="842.00" y1="173.52" x2="1148.00" y2="173.52" stroke="#243B53" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="995.00" y="147.00" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#243B53" text-anchor="middle" font-weight="400">Baseline 99.1%</text>
+<rect x="863.00" y="173.52" width="26.00" height="271.48" rx="0" fill="#007C83" stroke="#007C83"/>
+<text x="876.00" y="166.52" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#007C83" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">99.1</text>
+<rect x="894.00" y="173.32" width="26.00" height="271.68" rx="0" fill="#FFFFFF" stroke="#007C83"/>
+<text x="907.00" y="166.32" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#007C83" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">99.2</text>
+<text x="893.00" y="469.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Sham</text>
+<text x="893.00" y="486.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400"></text>
+<rect x="966.00" y="180.15" width="26.00" height="264.85" rx="0" fill="#B53C36" stroke="#B53C36"/>
+<text x="979.00" y="173.15" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B53C36" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">96.7</text>
+<rect x="997.00" y="173.16" width="26.00" height="271.84" rx="0" fill="#FFFFFF" stroke="#B53C36"/>
+<text x="1010.00" y="166.16" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#B53C36" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">99.2</text>
+<text x="996.00" y="469.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Designated</text>
+<text x="996.00" y="486.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">region</text>
+<rect x="1069.00" y="179.65" width="26.00" height="265.35" rx="0" fill="#664FA3" stroke="#664FA3"/>
+<text x="1082.00" y="172.65" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#664FA3" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">96.8</text>
+<rect x="1100.00" y="173.65" width="26.00" height="271.35" rx="0" fill="#FFFFFF" stroke="#664FA3"/>
+<text x="1113.00" y="166.65" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#664FA3" text-anchor="middle" font-weight="400" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" paint-order="stroke">99.0</text>
+<text x="1099.00" y="469.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400">Scattered</text>
+<text x="1099.00" y="486.00" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#253C50" text-anchor="middle" font-weight="400"></text>
+<rect x="39.00" y="526.00" width="18.00" height="18.00" rx="0" fill="#526579"/>
+<text x="67.00" y="541.00" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#253C50" text-anchor="start" font-weight="400">Immediate</text>
+<rect x="190.00" y="526.00" width="18.00" height="18.00" rx="0" fill="#FFFFFF" stroke="#526579"/>
+<text x="219.00" y="541.00" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#253C50" text-anchor="start" font-weight="400">Follow-up</text>
+<line x1="368.00" y1="535.00" x2="404.00" y2="535.00" stroke="#243B53" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="416.00" y="541.00" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#253C50" text-anchor="start" font-weight="400">Shared baseline</text>
+<text x="38.00" y="578.00" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#253C50" text-anchor="start" font-weight="400">Follow-up differences combine selection, births, deaths, altered dynamics, and population composition.</text>
+<text x="38.00" y="598.00" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#253C50" text-anchor="start" font-weight="400">These are measurements from one evolved world; see paired effects for the directly injured individuals.</text>
+</svg>
