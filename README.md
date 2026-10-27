@@ -151,4 +151,14 @@ Earlier generated model/run folders were deleted at the owner's request before t
 
 ## Next experiments
 
+An [independent-world replication runner](docs/replication-study.md) now repeats the matched injury branches and cue controls across declared evolution seeds, preserving original-cohort retention and estimating uncertainty across worlds. Start with its small software check:
+
+```sh
+python3 replication.py --preset smoke --seeds 101 202 303 \
+  --out runs/replication-smoke --max-batch-seconds 120
+```
+
+This smoke run verifies the pipeline; it does not reproduce the published 100-million-step experiment or demonstrate individual repair. The runner refuses existing output directories and records actual neural updates and complete scored episodes separately from scheduled steps. See the [study protocol](docs/replication-study.md) for a substantive replication recipe and interpretation limits.
+
 Replicate independent evolution and lesion seeds; establish cue-memory competence on held-out task families; map functional specialization before calling a region executive; compare matched connection loss; then test learning within the same injured IDs while masks remain fixed. Psychological trauma and biological TBI would require separately justified models and validation.
+
